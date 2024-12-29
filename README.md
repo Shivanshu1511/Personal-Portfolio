@@ -30,10 +30,9 @@ Provide a preview of some of the key projects featured on your portfolio website
 List the technologies, frameworks, and tools used to build your portfolio website. This could include programming languages, libraries, CMS platforms, hosting services, etc.
 
 - HTML5
-- CSS3 (mention any pre-processors like Sass)
-- JavaScript (mention any frameworks or libraries like React or Vue.js)
-- GitHub Pages (or any other hosting service used)
-- [Additional technologies]
+- CSS3 
+- JavaScrip
+- GitHub Pages
 
 ## How to Use
 
