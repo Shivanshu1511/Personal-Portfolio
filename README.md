@@ -56,6 +56,4 @@ Provide guidelines for contributors if you're open to collaboration or contribut
 
 Indicate the license under which your portfolio website's source code is released. Choose a license that suits your preferences and intentions for sharing your work.
 
----
 
-Feel free to customize this template to better suit your personal style and preferences. Good luck with your portfolio!
